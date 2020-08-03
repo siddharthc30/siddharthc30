@@ -1,7 +1,7 @@
-### Hi there 👋
+## Hi there, this is Siddharth 👋
 - 🔭 I’m currently working on Real time sign language detector
 
-<div><p>My profile overview: </p></div>
+### Profile Overview 
 
 ![Siddharth's github stats](https://github-readme-stats.vercel.app/api?username=siddharthc30&show_icons=true)
 <br />
