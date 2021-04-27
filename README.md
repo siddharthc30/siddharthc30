@@ -1,5 +1,7 @@
 ## Hi there, this is Siddharth 👋
-- 🔭 I’m currently working on Real time sign language detector
+- 🔭 I’m currently working on A Malaria Infected cells Detection Model
+- 🌱 I’m currently learning how to build Deep Neural Networks using Pytorch
+- 🤓 I participate in hackathons during most of the weekends
 - 😄 Pronouns: He/Him
 
 ### Profile Overview 
