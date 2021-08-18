@@ -1,7 +1,7 @@
 ## Hi there, this is Siddharth 👋
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/53928899/118505087-b90c0380-b749-11eb-993b-cc51234ad81d.gif" width="400" height="250" />
 
-- 🔭 I’m currently working on a Malaria Infected cells Detection Model
+- 🔭 I’m currently working on a signature forgery detection application
 - 🌱 I’m currently learning how to build Deep Neural Networks using Pytorch
 - 🤓 I participate in hackathons during weekends
 - 😄 Pronouns: He/Him
