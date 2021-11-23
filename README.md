@@ -9,12 +9,6 @@
 <br>
 <br>
 
-### Profile Overview 
-
-<img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=siddharthc30&show_icons=true&hide_border=false&title_color=03E6FF&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" align="center"/>
-<br />
-<br />
-
 
 <!--
 **siddharthc30/siddharthc30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
