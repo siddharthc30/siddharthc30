@@ -1,15 +1,29 @@
+## 👨🏻‍💻 &nbsp;About Me
 ## Hi there, this is Siddharth 👋
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/53928899/118505087-b90c0380-b749-11eb-993b-cc51234ad81d.gif" width="400" height="250" />
 
-- 🔭 I’m currently working on a signature forgery detection application
-- 🌱 I’m currently learning how to build Deep Neural Networks using Pytorch
-- 🤓 I participate in hackathons during weekends
+- 🎓 I'm currently in my 3rd year of undergrad at Amrita University, Kerala, India.
+- 🔭 I am a technophile, espicailly intrested on what computers are capable of.
+- 🌱 Currenlty, I'm learning about server-side programming and how the web works.
+- 🤓 I also spent a considerable amount of time on exploring the field of Machine Learning and Deep Learning.
+-  ⚡I participate in hackathons during weekends.
 - 😄 Pronouns: He/Him
+<p>
+<a href="https://github.com/siddharthc30">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=siddharthc30&show_icons=true&theme=algolia&include_all_commits=false&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=siddharthc30&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
-<br>
-<br>
-
-
+##  💬 Connect with me
+<p align="left">
+ 
+  <a href="https://twitter.com/SiddharthC30"><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/siddharth-cilamkoti-a667691b0/"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:siddharthcilamkoti@gmail.com?subject=Hola%20Jiji"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</p>
 <!--
 **siddharthc30/siddharthc30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
