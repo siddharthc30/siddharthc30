@@ -8,6 +8,9 @@
 - 🤓 I also spent a considerable amount of time on exploring the field of Machine Learning and Deep Learning.
 -  ⚡I participate in hackathons during weekends.
 - 😄 Pronouns: He/Him
+
+<br>
+<br>
 <p>
 <a href="https://github.com/siddharthc30">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=siddharthc30&show_icons=true&theme=algolia&include_all_commits=false&count_private=true"/>
