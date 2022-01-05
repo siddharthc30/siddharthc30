@@ -5,8 +5,8 @@
 - 🎓 I'm currently in my 3rd year of undergrad at Amrita University, Kerala, India.
 - 🔭 I am a technophile, espicailly intrested on what computers are capable of.
 - 🌱 Currenlty, I'm learning about server-side programming and how the web works.
-- 🤓 I also spent a considerable amount of time on exploring the field of Machine Learning and Deep Learning.
--  ⚡I participate in hackathons during weekends.
+- 🤓 I also spend a considerable amount of time exploring the field of Machine Learning and Deep Learning.
+-  ⚡I participate in hackathons during most weekends.
 - 😄 Pronouns: He/Him
 
 <br>
