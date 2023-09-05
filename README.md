@@ -2,7 +2,7 @@
 ## Hi there, this is Siddharth 👋
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/53928899/118505087-b90c0380-b749-11eb-993b-cc51234ad81d.gif" width="400" height="250" />
 
-- 🎓 I'm currently in my 3rd year of undergrad at Amrita University, Kerala, India.
+- 🎓 I'm currently a Masters in Computer Science student at SUNY Buffalo.
 - 🔭 I am a technophile, espicailly intrested on what computers are capable of.
 - 🌱 Currenlty, I'm learning about server-side programming and how the web works.
 - 🤓 I also spend a considerable amount of time exploring the field of Machine Learning and Deep Learning.
